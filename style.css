@@ -1,0 +1,123 @@
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+
+
+    *{
+      box-sizing: border-box;
+    }
+
+    body {
+      background-color: #282F44;
+    }
+
+    h1,
+    h3,
+    h4 {
+      color: #98D2EB;
+      font-family: 'Chakra Petch', sans-serif;
+      padding: 10px;
+
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    p {
+      color: #E1F2FE;
+      font-family: 'Quicksand', sans-serif;#B2B1CF
+       }
+
+    
+
+    a:link{
+      text-decoration: none;
+    }
+
+    a:visited{
+      text-decoration: none;
+    }
+
+    .OwnLinks{
+      text-align: center;
+      border-style: dashed;
+      border-radius: 100px;
+      padding: 10px;
+    }
+
+    a {
+      color: #93FF96;
+      font-family: 'Chakra Petch', sans-serif;
+    }
+
+    a:hover{
+      color: #32DE8A;
+    }
+
+    .AboutmeTitle{
+      text-align: center;
+    }
+
+    .biography{
+      border: solid #98D2EB 5px ;
+      border-radius: 50px;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      width: 1000px;
+    }
+
+    img {
+      float: right;
+      width: 350px;
+      height: 450px;
+      margin: 50px 50px 50px 50px;
+      border: solid #98D2EB 5px ;
+      border-radius: 50px;
+    }
+
+    .MyWorkTitle{
+      text-align: center;
+    }
+
+    .mywork{
+      border: solid #98D2EB 5px ;
+      border-radius: 50px;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      width: 1000px;
+    }
+
+    .Inspired{
+      text-align: center;
+    }
+
+    .artists{
+      border: solid #98D2EB 5px ;
+      border-radius: 50px;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
+      width: 1000px;
+    }
+
+    .Projects{
+      text-align: center;
+    }
+
+    .Games{
+      text-align: center;
+    }
+
+    .swag{
+      width: 400px;
+      height: 400px;
+      margin: 10px;
+    }
+
+    #UltimateSwag{
+      display: grid;
+      place-items: center;
+    }
